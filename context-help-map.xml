@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="what_is_a_perennial" path="what_is_a_perennial.html"/>
+   <appContext helpID="seasonal_perennials" path="seasonal_perennials.html"/>
+   <appContext helpID="shade_perennials" path="shade_perennials.html"/>
+   <appContext helpID="sun_perennials" path="sun_perennials.html"/>
+   <appContext helpID="planning_the_garden" path="planning_the_garden.html"/>
+   <appContext helpID="usda_hardiness_zones" path="usda_hardiness_zones.html"/>
+   <appContext helpID="concept_wr3_gwj_prb" path="garden-styles.html"/>
+   <appContext helpID="starting_seeds" path="starting_seeds.html"/>
+   <appContext helpID="choosing_the_right_plot" path="choosing_the_right_plot.html"/>
+   <appContext helpID="prepping_the_garden" path="prepping_the_garden.html"/>
+   <appContext helpID="soil_ph_levels" path="soil_ph_levels.html"/>
+   <appContext helpID="maintaining_the_garden" path="maintaining_the_garden.html"/>
+   <appContext helpID="types_of_compost" path="types_of_compost.html"/>
+   <appContext helpID="insect_pests" path="insect_pests.html"/>
+   <appContext helpID="animal_pests" path="animal_pests.html"/>
+</map>
